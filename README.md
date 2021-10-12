@@ -4,7 +4,7 @@
 
 <img src="https://2.bp.blogspot.com/-GK0qpqNN1so/UYm_KzqlxjI/AAAAAAAAAyQ/bZ--pkLtWQQ/s200/Sol+%C3%BAltimo.png"/> <h1>Developed by <b>Jesus Manuel Mallo Paya</b></h1>
 
-This is the v1.0 of the <b>MAF construcciones </b> website company, wich is being developed by <b>Jesus Manuel Mallo Paya</b>
+This is the v1.0 of the <b>MAF construcciones </b> website, a construction company in Chile, wich is being developed by <b>Jesus Manuel Mallo Paya</b>
 
 The version 1.0 is being developed with NextJs.
 
