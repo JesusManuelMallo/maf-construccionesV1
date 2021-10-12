@@ -1,10 +1,10 @@
 # maf-construcciones-v1.0
 
-<h1>MAF CONSTRUCCIONES </h1> <img src="https://instagram.fbcn4-1.fna.fbcdn.net/v/t51.2885-19/s320x320/174858264_3645188738942798_8484803599131248374_n.jpg?_nc_ht=instagram.fbcn4-1.fna.fbcdn.net&_nc_ohc=fkiUGnSDoDoAX818huT&tn=aDZUy7yyPhIiAmiL&edm=ABfd0MgBAAAA&ccb=7-4&oh=bc4da8620d15f6f56f9f946ea9a1d0c1&oe=616CC86B&_nc_sid=7bff83"/>
+<h1>MAF CONSTRUCCIONES WEBSITE</h1> <img src="https://instagram.fbcn4-1.fna.fbcdn.net/v/t51.2885-19/s320x320/174858264_3645188738942798_8484803599131248374_n.jpg?_nc_ht=instagram.fbcn4-1.fna.fbcdn.net&_nc_ohc=fkiUGnSDoDoAX818huT&tn=aDZUy7yyPhIiAmiL&edm=ABfd0MgBAAAA&ccb=7-4&oh=bc4da8620d15f6f56f9f946ea9a1d0c1&oe=616CC86B&_nc_sid=7bff83"/>
 
 <h1>Developed by <b>Jesus Manuel Mallo Paya</b></h1><img src="https://2.bp.blogspot.com/-GK0qpqNN1so/UYm_KzqlxjI/AAAAAAAAAyQ/bZ--pkLtWQQ/s200/Sol+%C3%BAltimo.png"/> 
 
-This is the v1.0 of the <b>MAF construcciones </b> website, a construction company in Chile, wich is being developed by <b>Jesus Manuel Mallo Paya</b>
+This is the v1.0 of the <b>MAF construcciones </b> website, a small construction company in Chile, wich is being developed by <b>Jesus Manuel Mallo Paya</b>
 
 The version 1.0 is being developed with NextJs.
 
