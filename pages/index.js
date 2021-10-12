@@ -8,7 +8,10 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>MAF Construcciones</title>
-        <meta name="description" content="MAF construcciones" />
+        <meta
+          name="description"
+          content="MAF construcciones. Empresa familiar desde 1991"
+        />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
