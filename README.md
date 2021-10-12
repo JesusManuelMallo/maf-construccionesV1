@@ -1,3 +1,21 @@
+# maf-construcciones-v1.0
+
+<img src="https://instagram.fbcn4-1.fna.fbcdn.net/v/t51.2885…c5649862c0e98166bf1c6f&oe=616C1E3E&_nc_sid=7bff83"/>
+
+This is the v1.0 of the <b>MAF construcciones </b> website company, wich is being developed by Jesus Manuel Mallo Paya.
+
+The version 1.0 is being developed with NextJs.
+
+MAF construcciones is a real estate construction company in Chile.
+
+<a href="https://www.instagram.com/maf_construcciones/"> This </a> is MAF construcciones instagram.
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
